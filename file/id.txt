@@ -1,0 +1,7 @@
+6
+23003,kai phone,
+14002,iphone xs,
+14003,iphone xr,
+45613,HTC ONE m9,
+45453,iphone 14,
+77777,Telsa model pi,
